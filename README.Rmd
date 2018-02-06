@@ -1,0 +1,17 @@
+---
+title: "Pairs Trading App"
+author: "Hoang Tran"
+date: "2/6/2018"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F)
+```
+
+## Requirements
+
+Packages required are `shiny, tidyverse, quantmod, egcm, urca, gridExtra, cowplot, DT`.
+
+
+Run using `runGithub("pairstrading2", "hoangtt1989")`.
